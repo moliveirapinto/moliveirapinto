@@ -58,7 +58,7 @@ Survey forms and analytics for capturing agent feedback after conversations. Hel
 ### 🔄 [d365-app-updater](https://github.com/moliveirapinto/d365-app-updater)
 > **Bulk update tool for D365 Power Platform applications**
 
-Update all your Power Platform apps at once instead of one by one. A time-saver for admins managing multiple environments.
+Update all your Power Platform apps at once instead of one by one — and schedule auto updates so you never have to worry about it again. A major time-saver for admins managing multiple environments.
 
 `JavaScript`
 
