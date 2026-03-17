@@ -46,15 +46,6 @@ A modern, informative landing page that gives agents everything they need at a g
 
 ---
 
-### 📢 [d365Notification](https://github.com/moliveirapinto/d365Notification)
-> **Broadcast Notification System for Dynamics 365 Customer Service**
-
-Enables supervisors to send in-app broadcast notifications to all users, specific queues, or individual agents — built with Power Apps Canvas + Power Automate. Includes automated deployment scripts.
-
-`PowerShell` `Power Fx` · Power Platform
-
----
-
 ### 📋 [AgentSurvey](https://github.com/moliveirapinto/AgentSurvey)
 > **Agent wrap-up survey solution for Dynamics 365 Contact Center**
 
@@ -70,15 +61,6 @@ Survey forms and analytics for capturing agent feedback after conversations. Hel
 Update all your Power Platform apps at once instead of one by one. A time-saver for admins managing multiple environments.
 
 `JavaScript`
-
----
-
-### 📅 [hrb](https://github.com/moliveirapinto/hrb)
-> **Appointment booking & scheduling web app**
-
-A clean, interactive calendar-based appointment scheduler with date selection, available time slots, and booking confirmation flow.
-
-`JavaScript` `HTML` `CSS`
 
 ---
 
